@@ -22,22 +22,14 @@ I am an IT systems student learning Windows Server, Linux, networking and      s
 ## Lab projects
 
 ### Windows Server Labs
-- Active Directory setup
-- DNS and DHCP configuration
-- Group Policy configuration
-- RDP setup
 
-### Linux Labs
-- Basic Linux commands
-- SSH setup
-- Service management with systemctl
-- File permissions
+- [Active Directory Basic Lab](windows-server-labs/active-directory-basic-lab.md)
+- [Group Policy Software and Security Lab](windows-server-labs/group-policy-software-security-lab.md)
 
 ### Networking Labs
-- IP addressing
-- VLAN basics
-- DHCP
-- Router configuration
+
+- [DHCP Failover and Load Balancing Lab](networking-labs/dhcp-failover-load-balancing-lab.md)
+- [OPNsense DHCP Basic Lab](networking-labs/opnsense-dhcp-basic-lab.md)
 
 ## Goal
 
