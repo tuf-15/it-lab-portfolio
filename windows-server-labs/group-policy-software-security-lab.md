@@ -46,7 +46,9 @@ Screenshots from the original lab show:
 - Security policy settings
 - Windows Update policy
 - USB storage restriction
+## Original report
 
+[Download PDF report](../reports/group-policy-software-security-lab.pdf)
 ## Status
 
 Completed
